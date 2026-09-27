@@ -2,6 +2,18 @@
 
 ### Dynamic Real-time Intelligence for Security via Heterogeneous Topology Inference
 
+
+> [!IMPORTANT]
+> ## Complete Research, Coding & Validation
+>
+> **The complete implementation, experiments, testing, and validation work for DRISHTI is documented in the three research notebooks below.** They contain the code, evaluation procedures, audit checks, and supporting outputs behind the project's research results.
+>
+> - **`DRISHTI_Book_1.ipynb` — Foundation & World Model:** Dataset discovery and preparation, temporal-window construction, network-state features, Delay-Koopman world modeling and forecasting benchmarks, Koopman analyses, topology/persistent-homology experiments, and temporal-integrity, statistical, and robustness validation.
+> - **`DRISHTI_Book_2.ipynb` — Detection & Integrated Attack Intelligence:** CIC-IDS2018 detection pipeline and baselines, risk-signal and temporal-detector evaluation, attack-onset/forecasting audits, packet-telemetry experiments, cross-dataset validation, and integration/evidence checks.
+> - **`DRISHTI_Book_3.ipynb` — TON-IoT Forecasting & Early Warning:** Dataset and temporal-integrity audits, feature construction, temporal dynamics, forecasting baselines and GRU experiments, event-level early-warning and lead-time evaluation, and exploratory time-to-event interval analysis.
+>
+> **Rendering note:** These notebooks are large and contain extensive code and outputs. GitHub may take **1–2 minutes** to render them; please allow a little time for them to load.
+
 **DRISHTI** is a cybersecurity research and situational-awareness prototype developed for **Smart India Hackathon 2026**, Problem Statement **26153: “AI-Based Network Attack Forecasting from Network Traffic Data.”** It explores how temporal network representations and learned dynamics can support threat assessment, attack-related analysis, and early-warning research using public cybersecurity datasets.
 
 ---
