@@ -1,0 +1,20 @@
+# Frontend dependencies and build output
+02_Dashboard/frontend/node_modules/
+02_Dashboard/frontend/dist/
+node_modules/
+dist/
+
+# Local environment and editor files
+.env
+.env.*
+!.env.example
+.vscode/
+
+# Python and notebook-generated files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS files
+Thumbs.db
+desktop.ini
