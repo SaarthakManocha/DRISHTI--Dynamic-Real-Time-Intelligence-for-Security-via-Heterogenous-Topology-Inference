@@ -221,7 +221,7 @@ Keep the dashboard's source files and required configuration; do not commit depe
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/SaarthakManocha/DRISHTI--Dynamic-Real-Time-Intelligence-for-Security-via-Heterogenous-Topology-Inference.git
 cd DRISHTI-SIH-2026
 ```
 
